@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "System Zmęczony — ABM (MVP)"
+authors:
+  - family-names: "Woźnica"
+    given-names: "Szymon"
+version: "0.1.0"
+date-released: "2026-02-01"
+license: "MIT"
+repository-code: "https://github.com/<twoj-login>/tired_system_abm"
+keywords:
+  - "agent-based modeling"
+  - "ABM"
+  - "fatigue"
+  - "affect"
+  - "political economy"
